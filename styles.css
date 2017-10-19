@@ -10,7 +10,7 @@ div#wrapper {
 	width: 435px;
 	height: inherit;
 	margin:0 auto;
-    position: relative;
+        position: relative;
 }
 
 
@@ -41,9 +41,9 @@ div#buttonAdvanced {
 	height: 30px;
 	background-color: gray;
 	float: right;
-	border-radius: 3px;
-	
+	border-radius: 3px;	
 }
+
 div#button {
 	margin: 2px;
 	width: 25px;
@@ -58,10 +58,9 @@ label {
 	padding: 20px;
 	padding-left: 10px;
 	margin:-30px;
-
 }
-.lableEmpty{
 
+.lableEmpty{
     color:rgb(60, 174, 246);
 }
 /*
@@ -100,7 +99,6 @@ select#search option {
     border-bottom: 1px solid rgb(53, 233, 240);
     padding-left:20px;
     padding:10px;
-    
 }
 
 
@@ -193,7 +191,7 @@ div#contentvalues {
 	border:1px solid rgb(60, 174, 246)!important;
 	border-radius:4px;
 	color:rgb(60, 174, 246);	
-    box-shadow: 0px 0px 5px rgb(60, 174, 246);
+        box-shadow: 0px 0px 5px rgb(60, 174, 246);
 	/*content: "fill the empty space ... ";*/
 }
 
@@ -221,14 +219,13 @@ div#NoUserBox{
     color: #fff2f2;
     font-size: 21;
     padding: 11px;
-   left:-100%;
-
+    left:-100%;
 }
 
 .display{
     display:block!important;
-
 }
+
 div#closeButton{
 
     border: 2px solid white;
@@ -242,12 +239,12 @@ div#closeButton{
     right: 50px;
     bottom: 13px;
     padding: 3;
-
 }
 
 .leftRot{
     transform:rotate(2deg)!important;
 }
+
 .rightRot{
     transform:rotate(-2deg)!important;
 }
@@ -259,12 +256,13 @@ div#sideline{
     background-color: rgb(60, 174, 246);
     box-shadow: 0px 0px 5px rgb(60, 174, 246);
 }
+
 div#line{
     width:0px;
     height:1px;
     position:absolute;
-     background-color: rgb(60, 174, 246);
-     box-shadow: 0px 0px 5px rgb(60, 174, 246);
+    background-color: rgb(60, 174, 246);
+    box-shadow: 0px 0px 5px rgb(60, 174, 246);
 }
 
 .bottom{
